@@ -310,5 +310,14 @@ body#cliffs p {
     font-size: 1rem;
     text-align: center;
 }
-
+body#activities h1 {
+    color: #9ed034;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
+body#activities p {
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
 
